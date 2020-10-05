@@ -1,0 +1,7 @@
+com\gk\demo\service\GetXpathService.class
+com\gk\demo\utils\HttpStatus.class
+com\gk\demo\utils\StringUtils.class
+com\gk\demo\service\impl\GetXpathServiceImpl.class
+com\gk\demo\utils\AjaxResult.class
+com\gk\demo\DemoApplication.class
+com\gk\demo\controller\GetXpathController.class
